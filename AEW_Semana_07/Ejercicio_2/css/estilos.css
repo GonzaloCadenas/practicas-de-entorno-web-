@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-image: url("../../Ejemplo/imagenes/MáquinaDeDios.png");
+	background-size: cover;
+}
+
+p.parrafo1 {
+	margin: 100px;
+	border:  50px solid orange;
+	padding: 25px;
+	text-align: justify;
+	background-color: yellow;
+}
+
+p.parrafo2 {
+	margin: 100px;
+	border:  50px solid orange;
+	padding: 25px;
+	text-align: justify;
+	background-color: cyan;
+	border-radius: 25px;
+}
